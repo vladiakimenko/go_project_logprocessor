@@ -1,0 +1,11 @@
+{
+    "core": {
+        "filepath": "log.csv",
+        "workers": 4,
+        "tops": 3
+    },
+    "logging": {
+        "json": false,
+        "level": "info"
+    }
+}
